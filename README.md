@@ -1,0 +1,1 @@
+# Template for making Vue and Django web apps
